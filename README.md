@@ -87,6 +87,17 @@
 <br/>
 <br/>  
 
+<div>
+ <b> If you like my work, you can support me by buying me a coffee by clickings the link below </b>
+<p>
+<p align="center">
+	<a href="https://www.buymeacoffee.com/weldetsadi9"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Weldsh" />
+	<a href="https://www.patreon.com/user?u=84162854"> <img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="50" width="210" alt="Weldsh" /> 
+	<!-- <a href="https://ko-fi.com/danigy"> <img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="210" alt="Ko-Fi" />
+	<a href="https://www.paypal.com/sdk/js?client-id=AVo7wpHDlIBnFDnXB3Iaj86h-2K6k_aJVA6ZRyz-6mnTVsZXB4F6QlDCVi6PayLRIxRNTgWNolt2tjPJ&vault=true&intent=subscription" data-sdk-integration-source="button-factory"> <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="Paypal" /><p/> -->
+		
+<p align="center">
+ </div>
 <!-- ## Github Stats 📉
 
 <div align="center" style="display: flex;justify-content: center;align-items: center; flex-direction:column;width:100%">
